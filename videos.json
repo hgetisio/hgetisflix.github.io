@@ -1,0 +1,32 @@
+{
+    "featured": {
+        "title": "Recently Added",
+        "thumbnail": "https://img.youtube.com/vi/PP_8DRrsnL0/hqdefault.jpg",
+        "id": "PP_8DRrsnL0"
+    },
+
+    "playlists": [
+        {
+            "name": "Funny Moments",
+            "videos": [
+                {
+                    "thumb": "https://img.youtube.com/vi/VIDEO_ID_1/hqdefault.jpg",
+                    "id": "VIDEO_ID_1"
+                },
+                {
+                    "thumb": "https://img.youtube.com/vi/VIDEO_ID_2/hqdefault.jpg",
+                    "id": "VIDEO_ID_2"
+                }
+            ]
+        },
+        {
+            "name": "Goofy Classics",
+            "videos": [
+                {
+                    "thumb": "https://img.youtube.com/vi/VIDEO_ID_3/hqdefault.jpg",
+                    "id": "VIDEO_ID_3"
+                }
+            ]
+        }
+    ]
+}
